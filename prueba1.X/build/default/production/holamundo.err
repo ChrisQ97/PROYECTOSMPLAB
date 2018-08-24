@@ -1,0 +1,7 @@
+Warning[205] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 1 : Found directive in column 1. (list)
+Warning[207] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 6 : Found label after column 1. (contador)
+Message[302] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 9 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[219] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 20 : Invalid RAM location specified.
+Message[302] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 20 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[219] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 23 : Invalid RAM location specified.
+Message[302] /home/chr97/MPLABXProjects/prueba1.X/holamundo.asm 23 : Register in operand not in bank 0.  Ensure that bank bits are correct.
