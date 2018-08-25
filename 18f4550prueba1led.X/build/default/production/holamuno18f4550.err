@@ -1,0 +1,4 @@
+Warning[205] /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm 1 : Found directive in column 1. (list)
+Warning[207] /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm 6 : Found label after column 1. (contador)
+Warning[207] /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm 11 : Found label after column 1. (bascular)
+Warning[202] /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm 19 : Argument out of range.  Least significant bits used.

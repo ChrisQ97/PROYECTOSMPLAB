@@ -1,0 +1,40 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Sat Aug 25 02:18:54 2018
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000004
+                   .cinit    romdata   0x000004    program   0x000002
+                   .org_1       code   0x000020    program   0x000022
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000005      
+                            0x000020    0x000041      
+            40 out of 33048 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   apagar   0x000032    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                 bascular   0x000026    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                   inicio   0x000020    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                  retardo   0x000034    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   inicio   0x000020    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                 bascular   0x000026    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                   apagar   0x000032    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+                  retardo   0x000034    program     static /home/chr97/MPLABXProjects/18f4550prueba1led.X/holamuno18f4550.asm
+
+
